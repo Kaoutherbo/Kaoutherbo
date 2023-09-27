@@ -82,18 +82,22 @@
 </p>
 
 ---
-## Stars 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutherbo&show_icons=true&locale=en&layout=compact" alt="kaoutherbo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutherbo&show_icons=true&locale=en" alt="kaoutherbo" /></p>
+## 🔝 GitHub Stats 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutherbo&" alt="kaoutherbo" /></p>
+<div align="start">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&margin-w=5" height="180em"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&margin-w=5" height="180em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=false&margin-w=5" height="180em" />
+   
+</div>
 
 ---
 
-<h3 align="center">Statistics</h3>
-<div align="center">
+## 📊 Statistics 
+
+<div align="start">
 <a href="https://github.com/Meriem1551">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaoutherbo&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaoutherbo&theme=algolia" height="180em" />
@@ -102,9 +106,10 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaoutherbo&theme=algolia" height="180em" />
 </div>
 
+
+
   ---
   
   <h2 align="left">⚡Activity Graph:</h2>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=4c659e&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
