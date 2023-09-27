@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Software Engineer from Algeria</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=5)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutherbo&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutherbo" /> </p>
 
 <img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutherbo&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutherbo" /> </p>
 
 - 🌱 I’m currently learning **Java ,Python and c++**
 
@@ -80,6 +80,9 @@
 
 </p>
 
+---
+## Stars 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutherbo&show_icons=true&locale=en&layout=compact" alt="kaoutherbo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutherbo&show_icons=true&locale=en" alt="kaoutherbo" /></p>
@@ -102,5 +105,5 @@
   
   <h2 align="left">⚡Activity Graph:</h2>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=d1e5ff&color=4c7b9e&line=4c659e&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=4c659e&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
