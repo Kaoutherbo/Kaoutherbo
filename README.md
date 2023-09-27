@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Algeria</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=10)
 
 ---
 
@@ -87,9 +87,9 @@
 ## 🔝 GitHub Stats 
 
 <div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&margin-w=5" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&margin-w=5" height="180em" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=false&margin-w=5" height="180em" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&margin-w=10" height="180em"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&margin-w=10" height="180em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=false&margin-w=10" height="180em" />
    
 </div>
 
@@ -97,13 +97,13 @@
 
 ## 📊 Statistics 
 
-<div align="center">
+<div align="start">
 <a href="https://github.com/Kaoutherbo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaoutherbo&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaoutherbo&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaoutherbo&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaoutherbo&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaoutherbo&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaoutherbo&theme=algolia&margin-w=5" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
 </div>
 
 
