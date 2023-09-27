@@ -84,18 +84,18 @@
 ---
 
 
-## 🔝 GitHub Stats 
+## 🔝 GitHub Stats :
 
 <div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&margin-w=10" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&margin-w=10" height="180em" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=false&margin-w=10" height="180em" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&margin-w=10&show_icons=true&locale=en" height="180em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em" />
    
 </div>
 
 ---
 
-## 📊 Statistics 
+## 📊 GitHub Statistics :
 
 <div align="start">
 <a href="https://github.com/Kaoutherbo">
