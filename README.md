@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutherbo&show_icons=true&locale=en" alt="kaoutherbo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutherbo&" alt="kaoutherbo" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
