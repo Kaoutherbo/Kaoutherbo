@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Algeria</h3>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=10)
 
 ---
@@ -12,13 +13,13 @@
 <img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" >
 
 
+- 🔭 Bachelor's degree in Computer Science - **2023**
+  
 - 🌱 I’m currently learning **Java ,Python and c++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaoutherbo](https://github.com/Kaoutherbo)
 
 - 💬 Ask me about **react , node js and flutter**
-
--  🔭 Bachelor's degree in Computer Science - **2023**
   
 - 📫 How to reach me **kaouther02.dz@gmail.com**
 
@@ -88,7 +89,7 @@
 
 <div align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&margin-w=10&show_icons=true&locale=en" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&margin-w=10&show_icons=true&locale=en&hide_border=true" height="180em" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em" />
    
 </div>
