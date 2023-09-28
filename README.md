@@ -90,8 +90,7 @@
 <div align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
     <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&margin-w=10&show_icons=true&locale=en&hide_border=true" height="180em" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em" />
-   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em"/> 
 </div>
 
 ---
