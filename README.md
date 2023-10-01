@@ -97,7 +97,7 @@
 
 ---
 
-## 📊 GitHub Statistics: 
+## 📊 GitHub Statistics : 
 
 <div align="start">
 <a href="https://github.com/Kaoutherbo">
