@@ -87,7 +87,7 @@
 ---
 
 
-## 🔝 GitHub Stats :
+## 🔝 GitHub Stats 
 
 <div align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
