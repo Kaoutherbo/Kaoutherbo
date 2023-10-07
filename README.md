@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif)
+<img src ="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
