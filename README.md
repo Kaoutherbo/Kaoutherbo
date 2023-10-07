@@ -1,4 +1,4 @@
-
+![](https://i.imgur.com/n6ImuTf.gif)
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
