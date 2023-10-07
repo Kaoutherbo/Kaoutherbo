@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/c6/ad/2e/c6ad2ec1fbc13a378d668b5c58a427ed.gif" width="100%"  > 
 <img src ="https://images.theconversation.com/files/490334/original/file-20221018-4769-ep7hqv.gif?ixlib=rb-1.1.0&rect=0%2C29%2C1797%2C898&q=45&auto=format&w=1356&h=668&fit=crop" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
