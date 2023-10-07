@@ -1,4 +1,4 @@
-<img src ="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" width="100%">
+<img src ="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
