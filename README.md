@@ -1,4 +1,4 @@
-<img src ="https://media0.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=6c09b952xa2es0bfbod74sprmuya6zcrc9u8shsx6jbam5ht&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" height="300px">
+<img src ="https://images.theconversation.com/files/490334/original/file-20221018-4769-ep7hqv.gif?ixlib=rb-1.1.0&rect=0%2C29%2C1797%2C898&q=45&auto=format&w=1356&h=668&fit=crop" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
