@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/photos-premium/dessin-anime-fille-aide-ordinateur-generative-ai-art_158863-15843.jpg?w=1060"  width="100%">
+<img src="https://img.freepik.com/photos-premium/dessin-anime-fille-aide-ordinateur-generative-ai-art_158863-15843.jpg?w=1060"  width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
