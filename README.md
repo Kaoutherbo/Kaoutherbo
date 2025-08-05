@@ -89,26 +89,25 @@
 
 --- 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=10)
 
 ---
 
+## 🔝 GitHub Stats 
 
-## 🔝 GitHub Stats : 
-
-<div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&margin-w=10&show_icons=true&locale=en&hide_border=true" height="180em" />
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=15&show_icons=true&locale=en" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&margin-w=15&show_icons=true&locale=en&hide_border=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em"/> 
 </div>
 
 ---
 
-## 📊 GitHub Statistics : 
+## 📊 GitHub Summary Cards 
 
-<div align="start">
+<div align="center">
 <a href="https://github.com/Kaoutherbo">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaoutherbo&theme=algolia&margin-w=5" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
@@ -117,13 +116,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaoutherbo&theme=algolia&margin-w=15" height="180em" />
 </div>
 
-
-
   ---
-  
-  <h2 align="left">⚡Activity Graph:</h2>
-  
+
+## ⚡Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
