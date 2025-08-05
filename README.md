@@ -98,9 +98,9 @@
 ## 🔝 GitHub Stats 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=15&show_icons=true&locale=en" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutherbo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=15&show_icons=true&locale=en" height="180em" />
     <img src="https://github-readme-stats.vercel.app/api?username=Kaoutherbo&theme=algolia&margin-w=15&show_icons=true&locale=en&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaoutherbo&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em"/> 
 </div>
 
 ---
@@ -120,3 +120,4 @@
 
 ## ⚡Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
