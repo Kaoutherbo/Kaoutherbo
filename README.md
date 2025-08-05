@@ -1,32 +1,37 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kaoutherbo&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutherbo" />
+</p>
 <img src="https://camo.githubusercontent.com/2a5ca0ef259d487b0b4f89d36b7df50f04d127ca55a8894e822ce15a5972382a/68747470733a2f2f692e7974696d672e636f6d2f76692f5f68756f374b4d703257772f6d617872657364656661756c742e6a7067"  width="100%" height="400">
-<h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
-<h3 align="center">A passionate Computer Science Student from Algeria</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Boutheldja Kaouther</h1>
+  <h2>Full-Stack Developer | Software Engineer | Tech Enthusiast from Algeria 🇩🇿</h2>
+</div>
+<br>
 
-## 🏆 GitHub Trophies
+🎓 I'm a Computer Science graduate (Class of 2025) driven by a deep interest in software engineering, full-stack development, and crafting meaningful digital experiences that solve real-world problems. My work blends creativity, clean architecture, and performance. From building intuitive user interfaces to designing scalable backend systems, I enjoy turning ideas into impactful digital experiences.
 
-![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=10)
+I'm continuously exploring new technologies in AI, system design, and cross-platform development, with a focus on delivering elegant and efficient solutions.
+
+<br>
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a655fe9f62bcada8d73d724b4f4b15c28458f891e593db8c3b8f9bb7673ccd8b/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" />
+
+- 🔭 Currently sharpening my skills in **React Native**, **System Design**, and **AI & Data Science**
+- 🌱 Passionate about continuous learning and exploring innovative technologies
+- 💬 pen to conversations around **React**, **Next.js**, **Node.js**, **NestJS**, and modern software practices
+- 📫 Reach me anytime at **kaoutherboutheldja@gmail.com**
 
 ---
 
+### 🌟 Hobbies & Interests:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutherbo&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutherbo" /> </p>
+- ⚽ Enjoy playing and watching football  
+- 🎵 Music lover — it’s my favorite productivity companion  
+- 📖 Reading books to stay inspired and informed  
+- 🌍 Curious about languages and different cultures, especially Korean and Spanish   
+- 📺 Love watching anime and storytelling media for creativity  
 
-<img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/a655fe9f62bcada8d73d724b4f4b15c28458f891e593db8c3b8f9bb7673ccd8b/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" >
-
-
-- 🎓 Graduated with a Bachelor's Degree in Computer Science — **Class of 2025**
-
-- 🌱 Passionately expanding my expertise in **React Native**, **System Design**, and the fast-evolving fields of **AI & Data Science**
-
-- 🛠️ I build clean, scalable, and human-centered applications — with a strong focus on performance and user experience
-
-- 💻 Check out my projects, contributions, and collaborations on GitHub: [github.com/Kaoutherbo](https://github.com/Kaoutherbo)
-
-- 💬 Let's talk about **React.js**, **Node.js**, **modern full-stack architectures**, or anything tech-related
-
-- 📫 You can reach me at **kaoutherboutheldja@gmail.com**
-
-- ✨ Fun fact: I mix code with creativity, and a good sense of humor always comes in handy 😄
+---
 
 
 <h3 align="left">Connect with me:</h3>
@@ -88,6 +93,12 @@
 
 </p>
 
+--- 
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Kaoutherbo&theme=algolia&no-frame=false&no-bg=false&margin-w=10)
+
 ---
 
 
@@ -119,3 +130,4 @@
   <h2 align="left">⚡Activity Graph:</h2>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
