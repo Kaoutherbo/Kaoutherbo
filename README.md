@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/photos-premium/dessin-anime-fille-aide-ordinateur-generative-ai-art_158863-15843.jpg?w=1060"  width="100%" height="400">
+<img src="https://camo.githubusercontent.com/2a5ca0ef259d487b0b4f89d36b7df50f04d127ca55a8894e822ce15a5972382a/68747470733a2f2f692e7974696d672e636f6d2f76692f5f68756f374b4d703257772f6d617872657364656661756c742e6a7067"  width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Boutheldja Kaouther</h1>
 <h3 align="center">A passionate Computer Science Student from Algeria</h3>
 
@@ -11,20 +11,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutherbo&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutherbo" /> </p>
 
-<img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" >
+<img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/a655fe9f62bcada8d73d724b4f4b15c28458f891e593db8c3b8f9bb7673ccd8b/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" >
 
 
-- 🔭 Bachelor's degree in Computer Science **2023**
-  
-- 🌱 I’m currently learning **Java ,Python and c++**
+- 🎓 Graduated with a Bachelor's Degree in Computer Science — **Class of 2025**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaoutherbo](https://github.com/Kaoutherbo)
+- 🌱 Passionately expanding my expertise in **React Native**, **System Design**, and the fast-evolving fields of **AI & Data Science**
 
-- 💬 Ask me about **react , node js and flutter**
-  
-- 📫 How to reach me **kaouther02.dz@gmail.com**
+- 🛠️ I build clean, scalable, and human-centered applications — with a strong focus on performance and user experience
 
-- ⚡ Fun fact **I think I am funny😊**
+- 💻 Check out my projects, contributions, and collaborations on GitHub: [github.com/Kaoutherbo](https://github.com/Kaoutherbo)
+
+- 💬 Let's talk about **React.js**, **Node.js**, **modern full-stack architectures**, or anything tech-related
+
+- 📫 You can reach me at **kaoutherboutheldja@gmail.com**
+
+- ✨ Fun fact: I mix code with creativity, and a good sense of humor always comes in handy 😄
 
 
 <h3 align="left">Connect with me:</h3>
@@ -117,4 +119,3 @@
   <h2 align="left">⚡Activity Graph:</h2>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
