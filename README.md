@@ -14,7 +14,7 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a655fe9f62bcada8d73d724b4f4b15c28458f891e593db8c3b8f9bb7673ccd8b/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" />
 
-- 🔭 Currently sharpening my skills in **Angular**, **System Design**, and **AI & Data Science**
+- 🔭 Currently sharpening my skills in **Spring Boot**, **Angular**,**System Design**, and **AI & Data Science**
 - 🌱 Passionate about continuous learning and exploring innovative technologies
 - 💬 Open to conversations around **React**, **Next.js**, **Node.js**, **NestJS**, and modern software practices
 - 📫 Reach me anytime at **kaoutherboutheldja@gmail.com**
@@ -121,6 +121,7 @@
 ## ⚡ Activity Graph
 
 [![Boutheldja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaoutherbo&bg_color=001219&color=4361ee&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/Kaoutherbo)
+
 
 
 
